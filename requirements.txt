@@ -1,0 +1,5 @@
+typer
+torch
+pandas
+sqlalchemy
+psycopg2-binary
